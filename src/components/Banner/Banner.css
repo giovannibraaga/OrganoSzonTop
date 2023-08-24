@@ -1,6 +1,7 @@
 .banner {
-    background-image: linear-gradient(to right, #ff4654, #101823, #101823);
+    background-image: linear-gradient(to right, #ff4654, #ff4654, #101823, #101823);
     text-align: center;
+    height: 556px
 }
 
 .banner img {
